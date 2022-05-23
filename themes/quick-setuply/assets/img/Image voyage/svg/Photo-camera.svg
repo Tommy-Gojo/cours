@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.223" height="63.078" viewBox="0 0 85.223 63.078">
+  <defs>
+    <filter id="Tracé_93" x="0" y="0" width="85.223" height="63.078" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#ccff90"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracé_94" x="19.743" y="11.606" width="45.737" height="45.737" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#ccff90"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracé_95" x="25.411" y="17.275" width="34.399" height="34.399" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#ccff90"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_034-photo_camera" data-name="034-photo camera" transform="translate(9 9)">
+    <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Tracé_93)">
+      <path id="Tracé_93-2" data-name="Tracé 93" d="M61.519,83.527H21.763V79.082a1.426,1.426,0,0,0-1.426-1.426H8.945a1.426,1.426,0,0,0-1.426,1.426v4.445H5.7A5.71,5.71,0,0,0,0,89.23v27.8a5.71,5.71,0,0,0,5.7,5.7H61.519a5.71,5.71,0,0,0,5.7-5.7V89.23A5.71,5.71,0,0,0,61.519,83.527Zm-51.149-3.02h8.54v3.02h-8.54Zm54,36.524a2.855,2.855,0,0,1-2.852,2.852H5.7a2.855,2.855,0,0,1-2.852-2.852V89.23A2.855,2.855,0,0,1,5.7,86.379H61.519a2.855,2.855,0,0,1,2.852,2.852v27.8Z" transform="translate(9 -68.66)" fill="#ccff90"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Tracé_94)">
+      <path id="Tracé_94-2" data-name="Tracé 94" d="M152.338,159.06a13.868,13.868,0,1,0,13.868,13.868A13.884,13.884,0,0,0,152.338,159.06Zm0,24.885a11.017,11.017,0,1,1,11.017-11.017A11.029,11.029,0,0,1,152.338,183.945Z" transform="translate(-109.73 -138.45)" fill="#ccff90"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Tracé_95)">
+      <path id="Tracé_95-2" data-name="Tracé 95" d="M186.428,198.818a8.2,8.2,0,1,0,8.2,8.2A8.209,8.209,0,0,0,186.428,198.818Zm0,13.548a5.348,5.348,0,1,1,5.348-5.348A5.354,5.354,0,0,1,186.428,212.366Z" transform="translate(-143.82 -172.54)" fill="#ccff90"/>
+    </g>
+    <path id="Tracé_96" data-name="Tracé 96" d="M41.915,220.328a1.426,1.426,0,0,0-1.426,1.426v15.4a1.426,1.426,0,1,0,2.852,0v-15.4A1.426,1.426,0,0,0,41.915,220.328Z" transform="translate(-34.716 -199.986)" fill="#ccff90"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="1.426" cy="1.426" rx="1.426" ry="1.426" transform="translate(5.773 13.926)" fill="#ccff90"/>
+    <path id="Tracé_97" data-name="Tracé 97" d="M411.924,192.583a1.426,1.426,0,0,0,1.426-1.426v-15.4a1.426,1.426,0,1,0-2.852,0v15.4A1.426,1.426,0,0,0,411.924,192.583Z" transform="translate(-351.97 -160.549)" fill="#ccff90"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="1.426" cy="1.426" rx="1.426" ry="1.426" transform="translate(58.528 35.599)" fill="#ccff90"/>
+  </g>
+</svg>

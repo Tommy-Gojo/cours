@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.714" height="76.468" viewBox="0 0 89.714 76.468">
+  <defs>
+    <filter id="Tracé_91" x="0" y="0" width="89.714" height="76.468" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#ccff90"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracé_92" x="18.7" y="17.822" width="52.314" height="52.314" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#ccff90"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_022-first_aid_kit" data-name="022-first aid kit" transform="translate(9 9)">
+    <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Tracé_91)">
+      <path id="Tracé_91-2" data-name="Tracé 91" d="M64.666,56.515V52.2a1.426,1.426,0,0,0-1.426-1.426H51.672A1.426,1.426,0,0,0,50.246,52.2v4.314H47.263V51.731a5.287,5.287,0,0,0-5.281-5.281H29.731a5.287,5.287,0,0,0-5.281,5.281v4.784H21.607V52.2a1.426,1.426,0,0,0-1.426-1.426H8.613A1.426,1.426,0,0,0,7.188,52.2v4.314S0,55.741,0,62.218v37a5.71,5.71,0,0,0,5.7,5.7H29.441a1.426,1.426,0,1,0,0-2.852H5.7a2.855,2.855,0,0,1-2.852-2.852v-37A2.855,2.855,0,0,1,5.7,59.366H66.011a2.855,2.855,0,0,1,2.852,2.852v37a2.855,2.855,0,0,1-2.852,2.852H42.095a1.426,1.426,0,0,0,0,2.852H66.01a5.71,5.71,0,0,0,5.7-5.7v-37C71.714,55.872,64.666,56.515,64.666,56.515ZM53.1,53.626h8.717v2.888H53.1Zm-25.8-1.9A2.432,2.432,0,0,1,29.732,49.3H41.982a2.432,2.432,0,0,1,2.429,2.429v4.784H27.3V51.731Zm-17.263,1.9h8.717v2.888H10.039Z" transform="translate(9 -37.45)" fill="#ccff90"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Tracé_92)">
+      <path id="Tracé_92-2" data-name="Tracé 92" d="M142.941,205.764h10.741a1.426,1.426,0,0,0,1.426-1.426V195.4h8.935a1.426,1.426,0,0,0,1.426-1.426V183.237a1.426,1.426,0,0,0-1.426-1.426h-8.935v-8.935a1.426,1.426,0,0,0-1.426-1.426H142.941a1.426,1.426,0,0,0-1.426,1.426v8.935H132.58a1.426,1.426,0,0,0-1.426,1.426v10.741a1.426,1.426,0,0,0,1.426,1.426h8.935v8.935A1.426,1.426,0,0,0,142.941,205.764Zm-8.935-13.212v-7.889h8.935a1.426,1.426,0,0,0,1.426-1.426V174.3h7.889v8.935a1.426,1.426,0,0,0,1.426,1.426h8.935v7.889h-8.935a1.426,1.426,0,0,0-1.426,1.426v8.935h-7.889v-8.935a1.426,1.426,0,0,0-1.426-1.426Z" transform="translate(-103.45 -144.63)" fill="#ccff90"/>
+    </g>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="1.426" cy="1.426" rx="1.426" ry="1.426" transform="translate(34.431 55.582)" fill="#ccff90"/>
+  </g>
+</svg>
